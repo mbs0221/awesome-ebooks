@@ -1,0 +1,255 @@
+[submodule "LLVM/Learn-LLVM-12"]
+	path = LLVM/Learn-LLVM-12
+	url = https://github.com/PacktPublishing/Learn-LLVM-12.git
+[submodule "LLVM/Learn-LLVM-Core-Libraries-Second-Edition"]
+	path = LLVM/Learn-LLVM-Core-Libraries-Second-Edition
+	url = https://github.com/PacktPublishing/Learn-LLVM-Core-Libraries-Second-Edition.git
+[submodule "LLVM/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries"]
+	path = LLVM/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries
+	url = https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries.git
+[submodule "LLVM/Optimizing-Compilers-using-LLVM"]
+	path = LLVM/Optimizing-Compilers-using-LLVM
+	url = https://github.com/PacktPublishing/Optimizing-Compilers-using-LLVM.git
+[submodule "Rust/Rust-Essentials-Second-Edition"]
+	path = Rust/Rust-Essentials-Second-Edition
+	url = https://github.com/PacktPublishing/Rust-Essentials-Second-Edition.git
+[submodule "Rust/Rust-High-Performance"]
+	path = Rust/Rust-High-Performance
+	url = https://github.com/PacktPublishing/Rust-High-Performance.git
+[submodule "Rust/Rust-Programming-By-Example"]
+	path = Rust/Rust-Programming-By-Example
+	url = https://github.com/PacktPublishing/Rust-Programming-By-Example.git
+[submodule "Rust/Rust-Programming-Cookbook"]
+	path = Rust/Rust-Programming-Cookbook
+	url = https://github.com/PacktPublishing/Rust-Programming-Cookbook.git
+[submodule "Rust/Rust-Standard-Library-Cookbook"]
+	path = Rust/Rust-Standard-Library-Cookbook
+	url = https://github.com/PacktPublishing/Rust-Standard-Library-Cookbook.git
+[submodule "Rust/Rust-Tutorial"]
+	path = Rust/Rust-Tutorial
+	url = https://github.com/derekbanas/Rust-Tutorial
+[submodule "Serverless/Building-Serverless-Architectures"]
+	path = Serverless/Building-Serverless-Architectures
+	url = https://github.com/PacktPublishing/Building-Serverless-Architectures.git
+[submodule "Serverless/Building-Serverless-Web-Applications"]
+	path = Serverless/Building-Serverless-Web-Applications
+	url = https://github.com/PacktPublishing/Building-Serverless-Web-Applications.git
+[submodule "Serverless/Hands-On-Microservices-with-Rust"]
+	path = Serverless/Hands-On-Microservices-with-Rust
+	url = https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust.git
+[submodule "Serverless/Hands-On-Serverless-Computing"]
+	path = Serverless/Hands-On-Serverless-Computing
+	url = https://github.com/PacktPublishing/Hands-On-Serverless-Computing.git
+[submodule "Serverless/Serverless-Design-Patterns-and-Best-Practices"]
+	path = Serverless/Serverless-Design-Patterns-and-Best-Practices
+	url = https://github.com/PacktPublishing/Serverless-Design-Patterns-and-Best-Practices.git
+[submodule "Serverless/Serverless-Programming-Cookbook"]
+	path = Serverless/Serverless-Programming-Cookbook
+	url = https://github.com/PacktPublishing/Serverless-Programming-Cookbook.git
+[submodule "Programming/CPP/Complete-Modern-C-"]
+	path = Programming/CPP/Complete-Modern-C-
+	url = https://github.com/PacktPublishing/Complete-Modern-C-.git
+[submodule "Programming/CPP/CPP-20-STL-Cookbook"]
+	path = Programming/CPP/CPP-20-STL-Cookbook
+	url = https://github.com/PacktPublishing/CPP-20-STL-Cookbook.git
+[submodule "Programming/CPP/Cpp-High-Performance"]
+	path = Programming/CPP/Cpp-High-Performance
+	url = https://github.com/PacktPublishing/Cpp-High-Performance.git
+[submodule "Programming/CPP/Cpp-High-Performance-Second-Edition"]
+	path = Programming/CPP/Cpp-High-Performance-Second-Edition
+	url = https://github.com/PacktPublishing/Cpp-High-Performance-Second-Edition.git
+[submodule "Programming/CPP/CPP-Reactive-Programming"]
+	path = Programming/CPP/CPP-Reactive-Programming
+	url = https://github.com/PacktPublishing/CPP-Reactive-Programming.git
+[submodule "Programming/CPP/C-Standard-Template-Library-in-Practice"]
+	path = Programming/CPP/C-Standard-Template-Library-in-Practice
+	url = https://github.com/PacktPublishing/C-Standard-Template-Library-in-Practice.git
+[submodule "Programming/CPP/Demystified-Object-Oriented-Programming-with-CPP"]
+	path = Programming/CPP/Demystified-Object-Oriented-Programming-with-CPP
+	url = https://github.com/PacktPublishing/Demystified-Object-Oriented-Programming-with-CPP.git
+[submodule "Programming/CPP/Hands-On-Design-Patterns-with-CPP"]
+	path = Programming/CPP/Hands-On-Design-Patterns-with-CPP
+	url = https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP.git
+[submodule "Programming/CPP/Hands-On-Functional-Programming-with-Cpp"]
+	path = Programming/CPP/Hands-On-Functional-Programming-with-Cpp
+	url = https://github.com/PacktPublishing/Hands-On-Functional-Programming-with-Cpp.git
+[submodule "Programming/CPP/Hands-On-System-Programming-with-CPP"]
+	path = Programming/CPP/Hands-On-System-Programming-with-CPP
+	url = https://github.com/PacktPublishing/Hands-On-System-Programming-with-CPP.git
+[submodule "Programming/CPP/Modern-CPP-Programming-Cookbook-Second-Edition"]
+	path = Programming/CPP/Modern-CPP-Programming-Cookbook-Second-Edition
+	url = https://github.com/PacktPublishing/Modern-CPP-Programming-Cookbook-Second-Edition.git
+[submodule "Programming/CPP/Software-Architecture-with-Cpp"]
+	path = Programming/CPP/Software-Architecture-with-Cpp
+	url = https://github.com/PacktPublishing/Software-Architecture-with-Cpp.git
+[submodule "Programming/CPP/Structural-Design-Patterns-in-Modern-C-"]
+	path = Programming/CPP/Structural-Design-Patterns-in-Modern-C-
+	url = https://github.com/PacktPublishing/Structural-Design-Patterns-in-Modern-C-.git
+[submodule "Programming/CPP/Template-Metaprogramming-with-CPP"]
+	path = Programming/CPP/Template-Metaprogramming-with-CPP
+	url = https://github.com/PacktPublishing/Template-Metaprogramming-with-CPP.git
+[submodule "Programming/CPP/The-Modern-Cpp-Challenge"]
+	path = Programming/CPP/The-Modern-Cpp-Challenge
+	url = https://github.com/PacktPublishing/The-Modern-Cpp-Challenge.git
+[submodule "Programming/CMake/CMake-Best-Practices"]
+	path = Programming/CMake/CMake-Best-Practices
+	url = https://github.com/PacktPublishing/CMake-Best-Practices.git
+[submodule "Programming/CMake/CMake-Cookbook"]
+	path = Programming/CMake/CMake-Cookbook
+	url = https://github.com/PacktPublishing/CMake-Cookbook.git
+[submodule "Programming/CMake/Modern-CMake-for-Cpp"]
+	path = Programming/CMake/Modern-CMake-for-Cpp
+	url = https://github.com/PacktPublishing/Modern-CMake-for-Cpp.git
+[submodule "Programming/Python/Mastering-Python-for-Networking-and-Security"]
+	path = Programming/Python/Mastering-Python-for-Networking-and-Security
+	url = https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security.git
+[submodule "Programming/Shell/Bash-Scripting-and-Shell-Programming-Linux-Command-Line-"]
+	path = Programming/Shell/Bash-Scripting-and-Shell-Programming-Linux-Command-Line-
+	url = https://github.com/PacktPublishing/Bash-Scripting-and-Shell-Programming-Linux-Command-Line-.git
+[submodule "Programming/Shell/Bash-Scripting-Linux-and-Shell-Programming-Complete-Guide"]
+	path = Programming/Shell/Bash-Scripting-Linux-and-Shell-Programming-Complete-Guide
+	url = https://github.com/PacktPublishing/Bash-Scripting-Linux-and-Shell-Programming-Complete-Guide.git
+[submodule "Linux/Hands-on-System-Programming-with-Linux"]
+	path = Linux/Hands-on-System-Programming-with-Linux
+	url = https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux.git
+[submodule "Linux/KVM-Virtualization-Cookbook"]
+	path = Linux/KVM-Virtualization-Cookbook
+	url = https://github.com/PacktPublishing/KVM-Virtualization-Cookbook.git
+[submodule "Linux/Learning-Linux-Binary-Analysis"]
+	path = Linux/Learning-Linux-Binary-Analysis
+	url = https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis.git
+[submodule "Linux/Learning-Linux-Kernel-Development"]
+	path = Linux/Learning-Linux-Kernel-Development
+	url = https://github.com/PacktPublishing/Learning-Linux-Kernel-Development.git
+[submodule "Linux/Learning-Linux-Shell-Scripting-Second-Edition"]
+	path = Linux/Learning-Linux-Shell-Scripting-Second-Edition
+	url = https://github.com/PacktPublishing/Learning-Linux-Shell-Scripting-Second-Edition.git
+[submodule "Linux/Linux-Command-Line-for-Beginners"]
+	path = Linux/Linux-Command-Line-for-Beginners
+	url = https://github.com/PacktPublishing/Linux-Command-Line-for-Beginners.git
+[submodule "Linux/Linux-Device-Driver-Development-Cookbook"]
+	path = Linux/Linux-Device-Driver-Development-Cookbook
+	url = https://github.com/PacktPublishing/Linux-Device-Driver-Development-Cookbook.git
+[submodule "Linux/Linux-Device-Driver-Development-Second-Edition"]
+	path = Linux/Linux-Device-Driver-Development-Second-Edition
+	url = https://github.com/PacktPublishing/Linux-Device-Driver-Development-Second-Edition.git
+[submodule "Linux/Linux-Device-Drivers-Development"]
+	path = Linux/Linux-Device-Drivers-Development
+	url = https://github.com/PacktPublishing/Linux-Device-Drivers-Development.git
+[submodule "Linux/Linux-Kernel-Debugging"]
+	path = Linux/Linux-Kernel-Debugging
+	url = https://github.com/PacktPublishing/Linux-Kernel-Debugging.git
+[submodule "Linux/Linux-Kernel-Programming"]
+	path = Linux/Linux-Kernel-Programming
+	url = https://github.com/PacktPublishing/Linux-Kernel-Programming.git
+[submodule "Linux/Linux-Kernel-Programming-Part-2"]
+	path = Linux/Linux-Kernel-Programming-Part-2
+	url = https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2.git
+[submodule "Linux/Linux-Security-and-Hardening-The-Practical-Security-Guide"]
+	path = Linux/Linux-Security-and-Hardening-The-Practical-Security-Guide
+	url = https://github.com/PacktPublishing/Linux-Security-and-Hardening-The-Practical-Security-Guide.git
+[submodule "Linux/Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning"]
+	path = Linux/Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning
+	url = https://github.com/PacktPublishing/Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning.git
+[submodule "Linux/Linux-Shell-Scripting-Bootcamp"]
+	path = Linux/Linux-Shell-Scripting-Bootcamp
+	url = https://github.com/PacktPublishing/Linux-Shell-Scripting-Bootcamp.git
+[submodule "Linux/Linux-Shell-Scripting-Cookbook-Third-Edition"]
+	path = Linux/Linux-Shell-Scripting-Cookbook-Third-Edition
+	url = https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition.git
+[submodule "Linux/Linux-System-Programming-Cookbook"]
+	path = Linux/Linux-System-Programming-Cookbook
+	url = https://github.com/PacktPublishing/Linux-System-Programming-Cookbook.git
+[submodule "Linux/Linux-System-Programming-Techniques"]
+	path = Linux/Linux-System-Programming-Techniques
+	url = https://github.com/PacktPublishing/Linux-System-Programming-Techniques.git
+[submodule "Linux/Mastering-Linux-Device-Drivers-Development"]
+	path = Linux/Mastering-Linux-Device-Drivers-Development
+	url = https://github.com/PacktPublishing/Mastering-Linux-Device-Drivers-Development.git
+[submodule "Linux/Mastering-Linux-Shell-Scripting-Second-Edition"]
+	path = Linux/Mastering-Linux-Shell-Scripting-Second-Edition
+	url = https://github.com/PacktPublishing/Mastering-Linux-Shell-Scripting-Second-Edition.git
+[submodule "Linux/Practical-Linux-Security-Cookbook"]
+	path = Linux/Practical-Linux-Security-Cookbook
+	url = https://github.com/PacktPublishing/Practical-Linux-Security-Cookbook.git
+[submodule "Linux/Professional-Linux-5-Systems-Programming"]
+	path = Linux/Professional-Linux-5-Systems-Programming
+	url = https://github.com/PacktPublishing/Professional-Linux-5-Systems-Programming.git
+[submodule "Security/Software-Security-Testing"]
+	path = Security/Software-Security-Testing
+	url = https://github.com/PacktPublishing/Software-Security-Testing.git
+[submodule "Rust/Hands-On-Data-Structures-and-Algorithms-in-Rust"]
+	path = Rust/Hands-On-Data-Structures-and-Algorithms-in-Rust
+	url = https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-in-Rust.git
+[submodule "Rust/Hands-On-Functional-Programming-in-Rust"]
+	path = Rust/Hands-On-Functional-Programming-in-Rust
+	url = https://github.com/PacktPublishing/Hands-On-Functional-Programming-in-Rust.git
+[submodule "Rust/Hands-On-WebAssembly-Programming-with-Rust"]
+	path = Rust/Hands-On-WebAssembly-Programming-with-Rust
+	url = https://github.com/PacktPublishing/Hands-On-WebAssembly-Programming-with-Rust.git
+[submodule "Rust/Introduction-to-Rust-Programming-"]
+	path = Rust/Introduction-to-Rust-Programming-
+	url = https://github.com/PacktPublishing/Introduction-to-Rust-Programming-.git
+[submodule "Rust/Practical-System-Programming-for-Rust-Developers"]
+	path = Rust/Practical-System-Programming-for-Rust-Developers
+	url = https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers.git
+[submodule "Rust/The-Complete-Rust-Programming-Reference-Guide"]
+	path = Rust/The-Complete-Rust-Programming-Reference-Guide
+	url = https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide.git
+[submodule "PyTorch/PyTorch-1.x-Reinforcement-Learning-Cookbook"]
+	path = PyTorch/PyTorch-1.x-Reinforcement-Learning-Cookbook
+	url = https://github.com/PacktPublishing/PyTorch-1.x-Reinforcement-Learning-Cookbook.git
+[submodule "PyTorch/PyTorch-Computer-Vision-Cookbook"]
+	path = PyTorch/PyTorch-Computer-Vision-Cookbook
+	url = https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook.git
+[submodule "PyTorch/PyTorch-Deep-Learning-in-7-Days"]
+	path = PyTorch/PyTorch-Deep-Learning-in-7-Days
+	url = https://github.com/PacktPublishing/PyTorch-Deep-Learning-in-7-Days.git
+[submodule "Machine-Learning/Hands-on-Machine-Learning-for-Cyber-Security"]
+	path = Machine-Learning/Hands-on-Machine-Learning-for-Cyber-Security
+	url = https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security.git
+[submodule "Machine-Learning/Machine-Learning-Security-Principles"]
+	path = Machine-Learning/Machine-Learning-Security-Principles
+	url = https://github.com/PacktPublishing/Machine-Learning-Security-Principles.git
+[submodule "LaTeX/LaTeX-A-Z-from-beginner-to-advanced-in-less-than-3-hours"]
+	path = LaTeX/LaTeX-A-Z-from-beginner-to-advanced-in-less-than-3-hours
+	url = https://github.com/PacktPublishing/LaTeX-A-Z-from-beginner-to-advanced-in-less-than-3-hours.git
+[submodule "LaTeX/LaTeX-Beginner-s-Guide-Second-Edition"]
+	path = LaTeX/LaTeX-Beginner-s-Guide-Second-Edition
+	url = https://github.com/PacktPublishing/LaTeX-Beginner-s-Guide-Second-Edition.git
+[submodule "LaTeX/LaTeX-For-Everyone-and-Everything"]
+	path = LaTeX/LaTeX-For-Everyone-and-Everything
+	url = https://github.com/PacktPublishing/LaTeX-For-Everyone-and-Everything.git
+[submodule "LaTeX/LaTeX-graphics-with-TikZ"]
+	path = LaTeX/LaTeX-graphics-with-TikZ
+	url = https://github.com/PacktPublishing/LaTeX-graphics-with-TikZ.git
+[submodule "Deep-Learning/Deep-Learning-with-PyTorch"]
+	path = Deep-Learning/Deep-Learning-with-PyTorch
+	url = https://github.com/PacktPublishing/Deep-Learning-with-PyTorch.git
+[submodule "Deep-Learning/Deep-Learning-with-PyTorch-Quick-Start-Guide"]
+	path = Deep-Learning/Deep-Learning-with-PyTorch-Quick-Start-Guide
+	url = https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Quick-Start-Guide.git
+[submodule "Deep-Learning/Deep-learning-with-PyTorch-video"]
+	path = Deep-Learning/Deep-learning-with-PyTorch-video
+	url = https://github.com/PacktPublishing/Deep-learning-with-PyTorch-video.git
+[submodule "Deep-Learning/Hands-On-Generative-Adversarial-Networks-with-PyTorch-1.x"]
+	path = Deep-Learning/Hands-On-Generative-Adversarial-Networks-with-PyTorch-1.x
+	url = https://github.com/PacktPublishing/Hands-On-Generative-Adversarial-Networks-with-PyTorch-1.x.git
+[submodule "Deep-Learning/Hands-On-Natural-Language-Processing-with-Pytorch"]
+	path = Deep-Learning/Hands-On-Natural-Language-Processing-with-Pytorch
+	url = https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-Pytorch.git
+[submodule "Deep-Learning/Mastering-PyTorch"]
+	path = Deep-Learning/Mastering-PyTorch
+	url = https://github.com/PacktPublishing/Mastering-PyTorch.git
+[submodule "Computer-Vison/Building-Computer-Vision-Projects-with-OpenCV4-and-CPlusPlus"]
+	path = Computer-Vison/Building-Computer-Vision-Projects-with-OpenCV4-and-CPlusPlus
+	url = https://github.com/PacktPublishing/Building-Computer-Vision-Projects-with-OpenCV4-and-CPlusPlus.git
+[submodule "Computer-Vison/Modern-Computer-Vision-with-PyTorch"]
+	path = Computer-Vison/Modern-Computer-Vision-with-PyTorch
+	url = https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch.git
+[submodule "Computer-Vison/OpenCV-with-Python-By-Example"]
+	path = Computer-Vison/OpenCV-with-Python-By-Example
+	url = https://github.com/PacktPublishing/OpenCV-with-Python-By-Example.git
+[submodule "Rust/How_to_learn_modern_Rust"]
+	path = Rust/How_to_learn_modern_Rust
+	url = https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust.git
